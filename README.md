@@ -9,6 +9,7 @@
 
 [<img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/vk.svg" />][website]
 [<img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/telegram.svg" />][telegram]
+[<img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/gmail.svg" />][gmail]
 
 <br />
 
@@ -22,3 +23,4 @@
 
 [website]: https://vk.com/pieliesdie
 [telegram]: https://t.me/Pieliesdie
+[gmail]: mailto:haketx@gmail.com
