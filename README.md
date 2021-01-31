@@ -1,6 +1,6 @@
 ### Hi there, I'm Oleg  👋
 
-## I'm a student and novice programmer!
+## I'm a novice programmer!
 - 👯 I'm currently looking for a job as C# programmer !
 - 🌱 I’m currently learning everything 🤣
 - ⚡ Fun fact: I love to sing and listing music
