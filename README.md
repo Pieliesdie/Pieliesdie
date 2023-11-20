@@ -1,7 +1,5 @@
 ### Hi there, I'm Oleg  👋
 
-- 👯 I'm currently looking for a job as C# programmer !
-
 ### Connect with me:
 
 [<img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/vk.svg" />][website]
